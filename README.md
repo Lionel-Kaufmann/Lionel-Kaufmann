@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Lionel
 
 I'm passionate about writing and sharing insights through my blog posts. I explore various topics and share my thoughts as a hobby.
 
