@@ -4,12 +4,9 @@ I'm passionate about writing and sharing insights through my blog posts. I explo
 
 ## My Blog Posts
 
-I regularly write on the following sites:
+I regularly write on the sites you can find here:
 
 - [lkmail.me](https://lkmail.me)
-- [swissdom.org](https://swissdom.org)
-- [dfacile.org](https://dfacile.org)
-- [incorpease.org](https://incorpease.org)
 
 ## How I Build My Blogs
 
