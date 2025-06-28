@@ -12,7 +12,6 @@ I regularly write on the sites you can find here:
 
 I build my blog posts using:
 - **Hugo Papermode** – A mode of Hugo that streamlines content creation.
-- **GitHub Codespaces** – My go-to cloud-based development environment for a seamless workflow.
 
 ## About Me
 
